@@ -150,7 +150,7 @@ int main(void)
     }
     else
     {
-        printf("\nNo positive numbers found in the array.\n");
+        print("\nNo positive numbers found in the array.\n");
     }
 
     return 0;
